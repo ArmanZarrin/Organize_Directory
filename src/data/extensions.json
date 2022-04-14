@@ -1,0 +1,50 @@
+{
+    "images": [
+        ".jpg",
+        ".png",
+        ".jpeg",
+        ".gif",
+        ".bmp"
+    ],
+    "videos": [
+        ".mp4",
+        ".mkv",
+        ".flv",
+        ".avi",
+        ".wmv"
+    ],
+    "documents": [
+        ".pdf",
+        ".doc",
+        ".docx",
+        ".ppt",
+        ".pptx",
+        ".xls",
+        ".xlsx",
+        ".txt"
+    ],
+    "compressed": [
+        ".zip",
+        ".rar",
+        ".7z",
+        ".tar",
+        ".gz"
+    ],
+    "data": [
+        ".csv",
+        ".json",
+        ".xml",
+        ".sql"
+    ],
+    "executable": [
+        ".exe",
+        ".msi"
+    ],
+    "audio": [
+        ".mp3",
+        ".wav",
+        ".aac",
+        ".flac",
+        ".wma"
+    ]
+}
